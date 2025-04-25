@@ -31,4 +31,4 @@ print(result)
 result = A * D
 print(result)
 result = C * A
-print(result)
+#print(result)
